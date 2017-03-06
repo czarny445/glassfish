@@ -1,0 +1,2 @@
+# glassfish
+Ansible glassfish role
